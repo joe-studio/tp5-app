@@ -1,0 +1,16 @@
+{
+    "name": "joe-studio/tp5-app",
+    "description": "基于TP5.024版本的管理后台应用总配置",
+    "keywords": ["thinkphp","app","config"],
+    "type": "tp5-config",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "JoeStudio",
+            "email": "wstudio888@gmail.com"
+        }
+    ],
+    "require": {
+        "joe-studio/tp5-login": "^1.0"
+    }
+}
