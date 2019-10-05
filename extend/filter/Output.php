@@ -4,6 +4,7 @@
 namespace filter;
 
 
+
 use think\Controller;
 
 class Output extends Controller
